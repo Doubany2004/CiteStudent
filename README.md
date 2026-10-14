@@ -2,7 +2,7 @@ English
 # CiteStudent
 CiteStudent is a web platform designed to manage student records at La Cité College. Users can view, add, edit, and delete student information through a user-friendly interface
 
-Main Features:
+MAIN FONCTION:
 
 -Display the list of all students
 
@@ -16,21 +16,21 @@ Main Features:
 
 -View student details
 
-Technologies:
+TECHNOLOGIE:
 
-Frontend: React
+-Frontend: React
 
-Backend: Node.js + Express
+-Backend: Node.js + Express
 
-Database: MySQL
+-Database: MySQL
 
-API Communication: Axios
+-API Communication: Axios
 
 Français:
 # CiteStudent
 CiteStudent est une plateforme web permettant de gérer les étudiants du Collège La Cité. Les utilisateurs peuvent consulter, ajouter, modifier et supprimer les informations des étudiants à partir d'une interface conviviale.
 
-Fonctionnalités principales:
+FONCTIONNALITÉ PRINCIPALE:
 
 -Afficher la liste de tous les étudiants
 
@@ -44,15 +44,14 @@ Fonctionnalités principales:
 
 -Consulter les détails d'un étudiant
 
-Technologies:
+TECHNOLOGIE:
+-Frontend : React
 
-Frontend : React
+-Backend : Node.js + Express
 
-Backend : Node.js + Express
+-Base de données : MySQL
 
-Base de données : MySQL
-
-Communication API : Axios
+-Communication API : Axios
 
 
 
