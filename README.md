@@ -16,7 +16,9 @@ MAIN FONCTION:
 
 -View student details
 
+
 TECHNOLOGIE:
+
 
 -Frontend: React
 
@@ -44,7 +46,9 @@ FONCTIONNALITÉ PRINCIPALE:
 
 -Consulter les détails d'un étudiant
 
+
 TECHNOLOGIE:
+
 -Frontend : React
 
 -Backend : Node.js + Express
