@@ -1,0 +1,24 @@
+.titre{
+display: flex;
+gap: 2em;
+margin-top: 1em;
+
+}
+.titre th{
+  font-weight: normal;
+}
+.lienAjouter {
+  text-decoration: none;
+ padding: 0.5em;
+  color: white;
+  background-color: blue;
+   border-radius: 5px;
+   border: 1px solid;
+   border-color: white;
+  
+}
+
+.lienAjouterParent{
+  margin-top: 15px;
+ 
+}
