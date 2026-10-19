@@ -5,8 +5,8 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import {Routes,Route, Form} from "react-router-dom"
 import Home from "./Home"
-//import addStudent from "./addStudent"
-//import editStudent from "./editStudent"
+import AddStudent from './addStudent'
+import EditStudent from "./editStudent"
 
 
 
@@ -15,8 +15,8 @@ function App(){
     
     <Routes>
 <Route path='/' element= {< Home />}/>
-<Route path='/addStudent' element= { < addStudent  />} />
-<Route path='editStudent/:numero_etudiant' element= { <editStudent />} />
+<Route path='/addStudent' element= { < AddStudent  />} />
+<Route path='editStudent/:numero_etudiant' element= { < EditStudent />} />
     </Routes>
     
 
